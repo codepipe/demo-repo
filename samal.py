@@ -5,4 +5,3 @@ print(type(b))
 
 #can please tell any one is it which type of type casting is this
 is it implicit or explicit 
-print("ankita,bhavani,carlos,hina,nikhil,priya,sharyna,suvarna,mohammed")
